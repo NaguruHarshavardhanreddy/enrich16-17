@@ -19,6 +19,7 @@ int main()
        if(flag==0)
        {
           printf("the next prime is %d",i);
+          break;
        }
    }
    return 0;
